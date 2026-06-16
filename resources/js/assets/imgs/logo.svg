@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 316">
+  <rect width="820" height="316" fill="none"/>
+
+  <g transform="translate(0, 0)">
+    <path fill="#d80f26" d="M93.77,141.19V257L151,214.69V98.83L61,59V194.24l16.32,7.21V85.56l57.29,25.32Zm23.53,57.95a7.19,7.19,0,1,1,7.14-7.19A7.16,7.16,0,0,1,117.3,199.14Z"/>
+  </g>
+
+  <text x="350" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="150" font-weigh="bold" font-family="Arial, sans-serif" fill="#d80f26">
+    ABK
+  </text>
+</svg>
